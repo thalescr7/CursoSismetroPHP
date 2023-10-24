@@ -1,10 +1,6 @@
 <?php
 
-
-
-
-
-    $nsort = rand (1,99); echo $nsort. "<br>";
+$nsort = rand (1,99); echo $nsort. "<br>";
 
     echo $numero_sorteado;
 
